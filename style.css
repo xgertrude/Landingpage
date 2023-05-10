@@ -1,0 +1,246 @@
+body{
+    font-family:Roboto, sans-serif;
+    background-color: #1F2937;
+    padding:0;
+    margin:0;
+}
+
+a{
+
+    text-decoration: none;
+    color:#f9faf8;
+}
+
+.first{
+color: #f9faf8;
+background-color: #1F2937;
+font-size: 24px;
+}
+
+.top{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+   gap: 420px;
+   margin-bottom:150px;
+}
+
+.logo{
+    display: flex;
+    font-weight: 900;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+    display: flex;
+    flex-wrap:nowrap;
+    margin: 10px;
+    padding: 10px;
+    gap: 16px;
+    
+}
+
+.headline {
+    font-size: 48px;
+    font-weight:900;
+}
+
+footer{
+    display:flex;
+    Justify-content:center;
+    background-color: #1F2937;
+    font-size: 18px;
+    align-items: center;
+    height: 100px;
+    color: #f9faf8;
+    
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    background-color:#f9faf8;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 120px;
+    margin-bottom: 170px;
+    margin:0;
+    gap:0px;
+    padding-top: 50px;
+}
+
+.darkbutt{
+    border:0px;
+    margin: 2px;
+}
+
+button{
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    width:120px;
+    padding: 5px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.quotes {
+    display: flex;
+    flex-direction:center;
+    flex-wrap:wrap;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    height: 100px;
+    padding:50px;
+    padding-top: 150px;
+    width: 800px;
+    justify-content: center;
+    padding-left:280px;
+    padding-right: 300px;
+
+    
+}
+
+.thor{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #E5E7EB;
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding-bottom: 130px;
+    padding-right: 375px;
+}
+
+.bigbutton{
+    background-color: #3882f6;
+    display: flex;
+    align-items:center;
+    flex-wrap:wrap;
+    margin:30px;
+    padding:10px;
+    padding-right: 140px;
+    padding-left: 140px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 1em;
+    border-radius:6px;
+    gap: 50px;
+    align-items: center;
+    border-color: #3882f6;
+}
+
+.blah{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    padding-left:0px;
+    padding-right: 120px;
+    margin: 10px;
+    flex-wrap: nowrap;
+    justify-content:flex-start;
+    color:#f9faf8;
+}
+
+.container1{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    max-width: 400px;
+    background-color: #1F2937;
+    color:#f9faf8;
+
+}
+
+li{
+    color:#1F2937;
+}
+
+p{
+    padding:0;
+    margin: 0;
+}
+
+.headline2{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    color:#1F2937;
+    font-weight: 900;
+    padding-top: 50px;
+}
+
+.backgroundimage{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    color:#f9faf8;
+    width: 600px;
+  margin: 0px;
+  text-align: center;
+  line-height: 300px;
+}
+
+.section1{
+    display: flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+}
+
+.box{
+    display:flex;
+    flex-direction: nowrap;
+    width:150px;
+    border-width:thick;
+    height:150px;
+    border-radius:20px;
+    border-style: solid;
+    border-color: #3882f6;
+}
+
+.oops{
+    background-color: #f9faf8;
+    margin-top: 40px;
+}
+
+.b{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.desc{
+ display:flex;
+width: 200px;
+}
+
+.bottomcon{
+    display: flex;
+    background-color: #f9faf8;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size:24px;
+}
+
+.signer {
+    font-size: 18px;
+}
+
